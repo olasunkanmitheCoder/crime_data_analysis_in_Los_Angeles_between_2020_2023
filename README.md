@@ -1,2 +1,2 @@
 # crime_data_analysis_in_Los_Angeles_between_2020_2023
-Data-driven analysis of Los Angeles crime patterns to identify crime hotspots, peak crime periods, and actionable insights for strategic polic
+This project applies data analysis techniques to Los Angeles crime data to identify key trends in crime types, geographic hotspots, and time-based patterns. Using Python and data visualization tools such as pandas, seaborn and matplotlib, the analysis delivers actionable insights to support strategic resource allocation, improve situational awareness, and enable data-driven decision-making in public safety operations.
