@@ -1,4 +1,4 @@
-# Data-Driven Crime Analysis: Optimizing LAPD Resource Allocation (2020-2023)
+# Data-Driven Crime Analysis: Optimizing LAPD Resource Allocation (2020-2023) | Python Data Science Project
 
 ## Project Overview and Problem
 This project analyzes criminal behavior patterns in Los Angeles to support the Los Angeles Police Department (LAPD) in effective resource allocation.
@@ -122,7 +122,7 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 Given that crime peaks at midday, the LAPD should consider re-allocating patrol units from early morning shifts to high-density commercial zones during the 11:00 AM – 2:00 PM window.
 
 - Specialized Identity Theft Task Force
-With Theft of Identity being the #1 reported crime , resource investment should be directed toward digital forensic units and public awareness campaigns specifically targeting the 26–34 age demographic.
+With Theft of Identity being the #1 reported crime, resource investment should be directed toward digital forensic units and public awareness campaigns specifically targeting the 26–34 age demographic.
 
 - Central Division "Night-Watch" Initiative
 Because the Central division is a significant hotspot for nighttime crime, city planners should prioritize increased street lighting and "night-watch" community policing in this specific sector.
@@ -133,10 +133,19 @@ The findings from this project highlight opportunities for more strategic law en
 Future work could include predictive modeling and machine learning approaches to forecast crime hotspots and further enhance proactive policing strategies.
 
 ## Limitations 
-
+- No coordinate points: The dataset provides street addresses and Area Names but lacks precise coordinate points. This prevents the creation of "hotspot map" that identify specific street corners or blocks where crime is concentrated.
+- Missing Values: Several columns, such as "Weapon Desc", contain a high frequency of "NaN" (Not a Number) values. This limits the ability to perform a detailed analysis of the severity or methods of various crimes.
 
 ## About Me
+I am Oladejo Olasunkanmi, a Data Scientist with a background in Remote Sensing and Geographic Information Systems (GIS) and over three years of experience analyzing geospatial and spatial datasets across multiple domains. I specialize in transforming complex datasets into actionable insights that support data-driven decision-making for governments and organizations.
+
+My work focuses on data analysis, spatial analytics, and data visualization to uncover patterns, trends, and opportunities hidden in data. I leverage tools such as Python, SQL, GIS technologies, and statistical analysis to build analytical solutions that improve operational efficiency and strategic planning.
+
+I am passionate about using data science and geospatial intelligence to solve real-world problems and support smarter, evidence-based decisions.
+
+I am open to Data Scientist, Geospatial Data Scientist, and Data Analyst opportunities where I can apply data-driven solutions to complex problems.
 
 
-  
 
+### Keywords
+Data Science, Python, Pandas, Data Visualization, GIS, Crime Analysis, Exploratory Data Analysis, Geospatial Analytics
