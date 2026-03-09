@@ -39,3 +39,5 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 | `'Weapon Desc'` | Description of the weapon used (if applicable). |
 | `'Status Desc'` | Crime status. |
 | `'LOCATION'` | Street address of the crime. |
+
+
