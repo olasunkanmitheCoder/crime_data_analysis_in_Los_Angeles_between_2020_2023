@@ -41,3 +41,61 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 | `'LOCATION'` | Street address of the crime. |
 
 ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Data_columns_snapshot.png)
+
+## Tools and Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Data Cleaning & Preparation
+- Converted date columns to datetime format
+- Removed duplicate records
+- Handled missing values in demographic fields
+- Extracted new columns features such as:
+  - Hour of crime occurrence
+  - Day of week
+  - Month
+  - Year
+  - Age brackets
+  - Time periods(Morning, Afternoon, Evening and Mid-night)
+
+## Key Questions & Analysis 
+  ### Questions
+  1. What is the highest frequency of crimes by hour? 
+  2. What is the largest frequency of night crimes (crimes committed between 10pm and 3:59am)? 
+  3. What is the number of crimes committed against victims of different age groups.
+  4. How does crime frequency change throughout the day?
+  5. Which Los Angeles divisions experience the highest crime rates?
+  6. What are the top 10 crime categories reported?
+  7. What are the top 10 types of crimes dominate nighttime hours (10 PM – 3:59 AM)?
+  8. How does crime victimization vary by age group?
+  9. Are crimes more common on weekdays or weekends?
+  10. Which area + hour combination produces the highest crime counts?
+  11. Crime trend: Is crime increasing or decreasing over time?
+
+  ### Analysis
+  #### Question 1
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Frequency_by_Hour_(2020-2023).png)
+  #### Question 2
+
+  #### Question 3
+
+  #### Question 4
+
+  #### Question 5
+
+  #### Question 6
+
+  #### Question 7
+
+  #### Question 8
+
+  #### Question 9
+
+  #### Question 10
+
+  #### Question 11
+
