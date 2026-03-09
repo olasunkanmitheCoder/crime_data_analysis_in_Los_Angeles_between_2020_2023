@@ -65,37 +65,45 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 ## Key Questions & Analysis 
   ### Questions
   1. What is the highest frequency of crimes by hour? 
-  2. What is the largest frequency of night crimes (crimes committed between 10pm and 3:59am)? 
-  3. What is the number of crimes committed against victims of different age groups.
-  4. How does crime frequency change throughout the day?
-  5. Which Los Angeles divisions experience the highest crime rates?
-  6. What are the top 10 crime categories reported?
-  7. What are the top 10 types of crimes dominate nighttime hours (10 PM – 3:59 AM)?
-  8. How does crime victimization vary by age group?
-  9. Are crimes more common on weekdays or weekends?
-  10. Which area + hour combination produces the highest crime counts?
-  11. Crime trend: Is crime increasing or decreasing over time?
+  2. How does crime victimization vary by age group?
+  3. How does crime frequency change throughout the daytime period?
+  4. Which Los Angeles divisions experience the highest crime rates?
+  5. What are the top 15 crime categories reported?
+  6. What are the top 10 types of crimes dominate nighttime hours (10 PM – 3:59 AM)?
+  7. Are crimes more common on weekdays or weekends?
+  8. Which area + hour combination produces the highest crime counts?
+  9. Crime trend: Is crime increasing or decreasing over time?
 
   ### Analysis
   #### Question 1
   ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Frequency_by_Hour_(2020-2023).png)
+  
   #### Question 2
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Victimization_by_Age_Group.png)
+  
   #### Question 3
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Distribution_by_Time_Period_(2020-2023).png)
+  
   #### Question 4
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Top10_Crime-Prone_Areas_(2020%20-%202023).png)
+  
   #### Question 5
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Top_15_Crimes_reported_(2020%20-%202023).png)
+  
   #### Question 6
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Top_Crimes_During_Night_Hours_(10PM_3AM).png)
+  
   #### Question 7
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Counts_by_Day_of_the_Week_(2020-2023).png)
+  
   #### Question 8
-
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Counts_by_Area_and_Hour.png)
+  
   #### Question 9
+  ![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Crime_Trend_by_Month_and_Year.png)
 
-  #### Question 10
 
-  #### Question 11
+## Key Insights 
+
+  
 
