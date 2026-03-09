@@ -40,4 +40,4 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 | `'Status Desc'` | Crime status. |
 | `'LOCATION'` | Street address of the crime. |
 
-
+![Image Description](https://github.com/olasunkanmitheCoder/crime_data_analysis_in_Los_Angeles_between_2020_2023/blob/main/Data_columns_snapshot.png)
