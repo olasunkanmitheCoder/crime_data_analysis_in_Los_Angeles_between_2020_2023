@@ -104,6 +104,39 @@ The goal of this analysis is to identify meaningful crime patterns within Los An
 
 
 ## Key Insights 
+- Temporal Trends: The Midday Peak
+    - Peak Activity: Crime incidents follow a clear daily cycle, peaking at 12:00 PM with 13,663 recorded crimes.
+    - Lowest Activity: The lowest frequency of crime occurs at 5:00 AM, recording only 3,171 incidents when overall public activity is minimal.
+    - Time Blocks: Crime is most frequent during the afternoon and evening periods, while midnight to early morning shows the lowest frequency reflecting reduced public activity during those hours..
+
+- Geographic Hotspots
+    - High-Volume Areas: Crime is not evenly distributed; the Central division reports the highest number of incidents, followed by the Southwest and 77th Street divisions. These areas likely experience higher crime rates due to increased population density, commercial activity, and urban congestion.
+    - Nighttime Risks: Between 10:00 PM and 3:59 AM, the Central division remains the area with the largest frequency of "night crimes".
+
+- Victim Demographics & Crime Categories
+    - Target Age Group: Victims aged 26–34 are the most affected demographic, accounting for 47,470 recorded incidents.
+    - Prevalent Crimes: "Theft of Identity" is the most commonly reported crime in Los Angeles, followed by simple battery and burglary from vehicles.
+
+## Recommendations
+- Shift to Midday Patrols
+Given that crime peaks at midday, the LAPD should consider re-allocating patrol units from early morning shifts to high-density commercial zones during the 11:00 AM – 2:00 PM window.
+
+- Specialized Identity Theft Task Force
+With Theft of Identity being the #1 reported crime , resource investment should be directed toward digital forensic units and public awareness campaigns specifically targeting the 26–34 age demographic.
+
+- Central Division "Night-Watch" Initiative
+Because the Central division is a significant hotspot for nighttime crime, city planners should prioritize increased street lighting and "night-watch" community policing in this specific sector.
+
+## Conclusion
+Crime data analysis provides valuable insights into the behavioral and spatial patterns of criminal activity. 
+The findings from this project highlight opportunities for more strategic law enforcement deployment, enabling the LAPD to respond more effectively to crime trends across Los Angeles.
+Future work could include predictive modeling and machine learning approaches to forecast crime hotspots and further enhance proactive policing strategies.
+
+## Limitations 
+
+
+## About Me
+
 
   
 
